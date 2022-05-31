@@ -1,27 +1,14 @@
-# TeamApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Simple Team Generator App Using Angular
+After i learned JS, Typescript, then React JS, my adventure on learning Front-End technologies and frameworks continue !
+Now it's time to begin my journey with Angular, i strated learning it and i found it very cool, and this app it's my first angular one, simply you enter the names
+and the number of the teams that you want to construct, then the app generate randomly the teams and assign the members to them.<br />
+Building this app i learned different things such us:
+<ul>
+  <li>How to create an Angular app and run it</li>
+  <li>Scoped & Global Styling</li>
+  <li>States</li>
+  <li>Events Handling</li>
+  <li>Structural & Attributes Directives</li>
+  <li>How to create a new Component</li>
+  <li>Pipes</li>
+</ul>
