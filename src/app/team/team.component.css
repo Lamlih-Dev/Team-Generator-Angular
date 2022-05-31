@@ -1,0 +1,12 @@
+.container {
+    padding: 4rem;
+    width: 40rem;
+    margin: 0 auto;
+  }
+  .team{
+    margin-bottom: 20px;
+  }
+  .card {
+    padding: 2rem;
+    width: 100%;
+  }

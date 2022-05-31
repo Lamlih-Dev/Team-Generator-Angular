@@ -1,0 +1,6 @@
+<div class="team" >
+    <h3>Team {{index + 1}}</h3>
+    <div class="team-members  ui card">
+      <p *ngFor="let member of team; let i = index">member {{i + 1}} : {{member | titlecase}}</p>
+    </div>
+</div>
